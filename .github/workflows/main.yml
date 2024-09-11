@@ -17,5 +17,5 @@ jobs:
 
      - name: Hello World
        run:  |
-          python hello.py
+          python hi.py
           
